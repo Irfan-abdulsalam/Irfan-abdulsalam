@@ -4,7 +4,7 @@
   <img align="right" width="370" height="290" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 </p>
 
-I am a passionate **Junior Java Developer** with a strong foundation in **Java, Spring Boot, MySQL, WSO2 Enterprise Integrator (WSO2EI)**, and **API Development**. I love to learn and build software that makes a difference.
+I am a passionate **Junior Software Developer** with a strong foundation in **Java, Spring Boot, MySQL, WSO2 Enterprise Integrator (WSO2EI)**, and **API Development**. I love to learn and build software that makes a difference.
 
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m currently learning **Advanced Spring Boot and Cloud Technologies**
